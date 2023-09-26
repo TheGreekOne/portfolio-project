@@ -16,6 +16,13 @@ h3 {
   text-align: center;
 }
 
+nav{
+  margin-left: 10px;
+  word-spacing: 25px;
+}
+	
+
+
 article {
   padding: 50px 0;
 }
